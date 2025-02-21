@@ -1,2 +1,0 @@
-# techXcelerate
-student consultancy
